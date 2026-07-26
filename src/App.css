@@ -1,0 +1,4 @@
+:focus-visible {
+  outline: 3px solid royalblue;
+  outline-offset: 3px;
+}
